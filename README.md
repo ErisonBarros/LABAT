@@ -2,13 +2,11 @@
 description: 'Endereço para acessar este CV: http://lattes.cnpq.br/8237482217038157'
 ---
 
-# Prof. Erison Roas de Oliveira Barros
+# RESUMO
 
 
 
 ![](.gitbook/assets/foto_perfil.jpg)
-
-## Resumo:
 
 ## Português
 
