@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Resumo](README.md)
+* [Prof. Erison Roas de Oliveira Barros](README.md)
 * [Formação Acadêmica](formacao-academica.md)
 * [Projetos de Pesquisa](projetos-de-pesquisa.md)
 * [Projetos de Extensão](projetos-de-extensao.md)
